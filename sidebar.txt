@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[oks:home|Door43 (oks)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-oks|d43-oks repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-oks/archive/master.zip|d43-oks.zip]]
+
+**Recent Changes**
+{{changes>ns = oks}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/oks|Ethnologue data]]
+
